@@ -1,0 +1,6 @@
+install.packages("tidyverse",dependencies = TRUE)
+install.packages("kableExtra", dependencies = TRUE)
+install.packages("hms")
+library(tidyverse)
+library(knitr)
+library(kableExtra)
